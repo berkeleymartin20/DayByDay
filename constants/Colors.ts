@@ -1,0 +1,26 @@
+export const Colors = {
+  light: {
+    background: '#FFFFFF',
+    card: '#F5F5F5',
+    text: '#1E1E1E',
+    subtext: '#666666',
+    border: '#E5E5E5',
+    primary: '#1E90FF',
+    danger: '#FE5F55',
+    checkbox: '#666666',
+    progressBar: '#E5E5E5',
+    progressFill: '#1E90FF',
+  },
+  dark: {
+    background: '#1E1E1E',
+    card: '#2D2D2D',
+    text: '#EEF5DB',
+    subtext: '#7A9E9F',
+    border: '#2D2D2D',
+    primary: '#1E90FF',
+    danger: '#FE5F55',
+    checkbox: '#7A9E9F',
+    progressBar: '#404040',
+    progressFill: '#1E90FF',
+  },
+};
